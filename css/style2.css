@@ -1,0 +1,871 @@
+body{
+	margin: 0px;
+}
+.container-fluid{
+	padding: 0px;
+}
+header div.menu{
+	height: 134px;
+	background: rgba(0, 0, 0, 0.4);
+}
+header{
+	background-image: url(../Практика/img.jpg); 
+	height: 967px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+header div.menu a img{
+	display: block;
+	padding-top: 50px;
+	padding-left: 100px;
+}
+header nav ul{
+	list-style-type: none;
+	padding-right: 50px;
+	margin: 0;
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 50px;
+}
+header nav ul li a{
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	color: #39b9ef;
+	text-decoration: underline;
+}
+header div.call-to h1{
+	color: white;
+	text-align: center;
+	margin-top: 250px;
+	font-size: 72px;
+	font-weight: bold;
+}
+header div.call-to h1 span{
+	color: #2ebaee;
+}
+header div.call-to p{
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 20px;
+}
+header div.call-to a{
+	display: block;
+	border-radius: 24px;
+	background-color: #2ebaee; 
+	height: 50px; 
+	width: 215px;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 50px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+}
+header div.call-to a:hover{
+	color: #2ebaee;
+	background: #fff;
+}
+/**********************************************
+*****************Our services******************
+***********************************************/
+
+div.back-services{
+	background-image: url(../Практика/img8.jpg);
+	background-repeat: no-repeat;
+	padding-bottom: 140px;
+}
+section.our-services h2{
+	color: #242424;
+	font-size: 48px;
+	text-align: center;
+	margin-top: 70px;
+	border-bottom: 1px solid #e7e7e7;
+	padding-bottom: 80px;
+}
+section.our-services div.services div{
+	padding-top: 80px;
+}
+div.services div img{
+	display: block;
+	margin-bottom:  50px;
+}
+div.services div h3{
+	color: #242424;
+	font-size: 24px;
+	margin-bottom: 34px; 
+}
+div.services div p, div.services-2 p{
+	color: #878787;
+	font-size: 16px;
+	line-height: 24px;
+	max-width: 520px;
+}
+section.our-services div.buttom a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #2ebaee;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 44px;
+	margin: 65px auto;
+}
+section.our-services div.buttom a:hover{
+	color: #2ebaee;
+	background: #fff;
+}
+div.services-2{
+	margin-top: 180px;
+}
+div.services-2 h3{
+	color: #242424;
+	font-size: 36px;
+
+}
+div.services-2 div img, div.services-3 div img{
+	max-width: 100%;
+}
+div.services-2 a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #2ebaee;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 44px;
+	margin-top: 50px;
+}
+div.services-2 a:hover{
+	color: #2ebaee;
+	background: #fff;
+}
+div.services-3{
+	margin-top: 240px;
+}
+div.services-3 h3{
+	color: #fff;
+	font-size: 36px;
+
+}
+div.services-3 div p{
+	color: #fff;
+	max-width: 520px;
+	font-size: 16px;
+	line-height: 24px;
+}
+div.services-3 div.serv-2{
+ padding-left: 75px;
+}
+div.services-3 a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #fff;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #2ebaee;
+	line-height: 44px;
+	margin-top: 50px;
+}
+div.services-3 a:hover{
+	color: #fff;
+	background: #2ebaee;
+}
+
+/**********************************************
+********************MAN************************
+***********************************************/
+
+section.man{
+	height: 500px;
+}
+section.man img{
+	max-width: 100%;
+	height: 500px;
+}
+section.man h3{
+	font-size: 72px;
+	font-weight: bold;
+	color: #000;
+	max-width: 600px;
+	margin-left: 75px;
+}
+section.man p{
+	color: #878787;
+	font-size: 16px;
+	max-width: 600px;
+	margin-left: 75px;
+}
+section.man div a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #2ebaee;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 44px;
+	margin-top: 50px;
+	margin-left: 75px;
+}
+section.man div a:hover{
+	color: #2ebaee;
+	background: #fff;
+}
+
+/**********************************************
+********************NONAME*********************
+***********************************************/
+
+section.noname{
+	height: 438px;
+}
+section.noname div h4{
+	
+}
+section.noname div.block1{
+	background-image: url(../Практика/img11.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 438px;
+}
+section.noname div.block2{
+	background-image: url(../Практика/img13.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 438px;
+}
+section.noname div.block3{
+	background-image: url(../Практика/12.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 438px;
+}
+section.noname div.block4{
+	background-image: url(../Практика/img14.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 438px;
+}
+section.noname div h4{
+	color: #fff;
+	font-size: 44px;
+	font-weight: bold;
+	margin-left: 65px;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	margin: 0;
+	padding: 140px 65px 0 65px;
+}
+section.noname div h4:hover{
+	color: #fff;
+	font-size: 44px;
+	font-weight: bold;
+	margin-left: 65px;
+	height: 100%;
+	width: 100%;
+	background: rgba(57, 157, 195, 0.7);
+	margin: 0;
+	padding: 140px 65px 0 65px;
+}
+
+
+
+/**********************************************
+********************TEAM***********************
+***********************************************/
+
+
+
+section.team{
+	height: 850px;
+}
+section.team h2{
+	color: #2ebaee;
+	font-size: 72px;
+	max-width: 470px;
+}
+section.team h2 span{
+	color: #000;
+	font-size: 72px;
+}
+section.team p{
+	color: #000;
+	text-align: center;
+}
+section.team img{
+	display: block;
+	margin: 0 auto;
+	height: 234px;
+	width: 234px;
+	margin-top: 32px;
+}
+section.team div.name{
+	color: #242424;
+	font-size: 34px;
+	text-align: center;
+	margin-top: 30px;
+	font-weight: bold;
+}
+section.team div{
+	text-align: center;
+}
+section.team a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #2ebaee;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 44px;
+	margin: 30px auto;
+}
+section.team a:hover{
+	color: #2ebaee;
+	background: #fff;
+}
+
+
+/**********************************************
+********************FOOTER***********************
+***********************************************/
+
+section.footer{
+	background-image: url(../Практика/Footer.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+section.footer div.contact{
+	color: #fff;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 115px;
+}
+section.footer div p{
+	color: #878787;
+	font-size: 32px;
+	margin: 24px 0 0 0;
+}
+section.footer div p.adress{
+	color: #878787;
+	font-size: 16px;
+	margin: 30px 0 0 0;
+}
+section.footer div span{
+	color: #2ebaee;
+}
+section.footer ul{
+	list-style-type: none;
+	margin-top: 70px;
+	padding: 0;
+}
+section.footer li{
+	display: inline-block;
+	margin-right: 30px;
+}
+section.footer input[type="text"],section.footer input[type="email"]{
+	height: 60px;
+	width: 635px;
+	background: none;
+	border-radius: 6px;
+	border: 1px solid #535353;
+	font-size: 17px;
+	color: #fff;
+	display: block;
+	padding-left: 30px;
+	margin: 20px auto;
+}
+section.footer input[type="text"]{
+	margin-top: 126px;
+}
+section.footer textarea{
+	height: 200px;
+	width: 635px;
+	background: none;
+	border-radius: 6px;
+	border: 1px solid #535353;
+	font-size: 17px;
+	display: block;
+	padding: 30px;
+	margin: 20px auto;
+	resize: none;
+	color: #fff;
+}
+section.footer button{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #2ebaee;
+	height: 45px;
+	width: 150px;
+	border-radius: 24px;
+	font-size: 16px;
+	color: #fff;
+	line-height: 44px;
+	margin: 30px auto;
+	border: none;	
+}
+section.footer button:hover{
+	color: #2edaee;
+	background: #fff;
+}
+footer{
+	background: #000;
+	height: 135px;
+}
+footer p, footer ul{
+	list-style-type: none;
+	margin-top: 60px;
+	padding: 0;
+	color: #fff;
+}
+footer li{
+	display: inline-block;
+	margin-right: 20px;
+}
+footer li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+footer li a:hover{
+	text-decoration: underline;
+}
+.img-adaptive{
+	display: block;
+	max-width: 100%
+	height: auto;
+}
+
+/**********************************************
+********************MEDIA**********************
+***********************************************/
+
+
+/* Экстрамалые девайсы («портретные телефоны», < 576px)*/
+@media (max-width: 575.98px) {
+	section.team h2{
+		text-align: center;
+		display: inline-block;
+		padding-left: 50px;
+		font-size: 36px;
+	}
+	div.services-3 div p {
+	    color: #fff;
+	    max-width: 520px;
+	    font-size: 14px;
+	    line-height: 14px;
+	}
+	div.services-3 div.serv-2 h3 {
+	    color: #fff;
+	    font-size: 1px;
+	}
+	div.services-3 div.serv-2 a{
+		margin: 0;
+	}
+	div.div.services-3{
+		height: 200vh;
+	}
+}
+
+/* Малые девайсы («ландшафтные», >= 575px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	section.team h2{
+		text-align: center;
+		display: inline-block;
+		padding-left: 50px;
+		font-size: 36px;
+	}
+	div.services-3 div p {
+	    color: #fff;
+	    max-width: 520px;
+	    font-size: 14px;
+	    line-height: 14px;
+	}
+	div.services-3 div.serv-2 h3 {
+	    color: #fff;
+	    font-size: 24px;
+	}
+	div.services-3 div.serv-2 a{
+		margin: 0;
+	}
+	div.back-services{
+		padding-bottom: 10px;
+	}
+	div.services-3{
+		height: auto;
+	}
+	section.man p{
+		font-size: 12px;
+	}
+	section.man{
+		height: 69vh;
+	}
+	section.man img{
+		height: 69vh;
+	}
+	section.man h3{
+		font-size: 24px;
+	}
+	section.noname{
+		height: 60%;
+	}	
+	section.noname div h4{
+		font-size: 34px;
+		text-align: center;
+		padding: 120px 65px 0 65px;
+	}section.noname div h4:hover{
+		font-size: 34px;
+		text-align: center;
+		padding: 120px 65px 0 65px;
+	}
+	section.team{
+		height: 1200px;
+	}
+	section.footer div.contact{
+		color:#fff;
+		font-size: 38px;
+		font-weight: bold;
+		margin-top: 25px;
+		text-align: center;
+	}
+	section.footer p{
+		font-size: 14px;
+		color: #878787;
+		margin: 14px auto;
+		text-align: center;
+	}
+	section.footer p.adress{
+		font-size: 16px;
+		color: #878787;
+		margin-top: 20px;
+		text-align: center;
+	}
+	section.footer ul{
+		margin: 20px auto;
+		list-style-type: none;
+		width: 470px;
+	}
+	section.footer ul li{
+		display: inline-block;
+		margin: 0 0 0 27px;
+
+	}
+	section.footer{
+		background-position: top center;
+		background-repeat: no-repeat;
+		height: 714px;
+	}
+	section.footer textarea{
+		height: 100px;
+		width: 535px;
+	}
+	section.footer input{
+		margin-top: 10px;
+		width: 100px;
+	}
+	footer ul li{
+		display: inline-block;
+		margin-right: 12px;
+	}
+	footer p{
+		list-style-type: none;
+		margin-top: 56px;
+		padding: 0 10px;
+		color: #fff;
+		text-align: left;
+		padding-left: 40px;
+	}
+	footer ul{
+		list-style-type: none;
+		margin-top: 56px;
+		padding: 0 10px;
+		color: #fff;
+		text-align: left;
+		width: 320px;
+		padding-right: 30px;
+	}
+	section.footer input[type="text"], section.footer input[type="email"]{
+    height: 60px;
+    width: 535px;
+    background: none;
+    border-radius: 6px;
+    border: 1px solid #535353;
+    font-size: 17px;
+    color: #fff;
+    display: block;
+    padding-left: 30px;
+    margin: 20px auto;
+}
+}
+/* Средние девайсы («таблетки», >= 768px)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+	header{
+		height: 540px;
+	}
+	header div.call-to h1{
+		margin-top: 30px;
+		font-size: 48px;
+	}
+	header div.call-to p{
+		font-size: 20px;
+		margin-top: 30px 0;
+		text-align: center;
+	}
+	div.services div h3{
+		text-align: center;
+	}
+	div.services div img{
+		display: block;
+		margin: 0 auto;
+		width: 80px;
+	}
+	div.services h3,div.services h3{
+		margin: 0;
+	}
+	div.services div p,div.services-2 p{
+		padding: 0 10px;
+	}
+	div.services-3{
+		margin-top: 40px;
+	}
+	div.services-2 a{
+		background: #fff;
+		color: #2ebaee;
+	}
+	div.services-2 a:hover{
+		background: #2ebaee;
+		color: #fff;
+		border: 1px solid #fff;
+	}
+	div.services-3 div.serv-2{
+		padding-left: 20px;	
+	}
+	div.back-services{
+		padding-bottom: 40px;
+	}
+	section.man div h3{
+		margin: 0 auto;
+		font-size: 24px;
+		text-align: center;
+		width: 90%;
+	}
+	section.man,section.man img{
+		height: 300px;
+	}
+	section.noname{
+		height: 100%;
+	}
+	section.noname h4{
+		text-align: center;
+		padding: 120px 65px 0 65px;
+	}section.noname h4:hover{
+		text-align: center;
+		padding: 120px 65px 0 65px;
+	}
+	section.team h2{
+		font-size: 48px;
+		text-align: center;
+	}
+	section.team h2 span{
+		font-size: 48px;
+	}
+	section.team img{
+		display: block;
+		margin: 0 auto;
+		width: 200px;
+		height: 200px;
+		margin-top: 32px;
+	}
+	section.team{
+		height: 1200px;
+	}
+	section.footer div.contact{
+		color:#fff;
+		font-size: 48px;
+		font-weight: bold;
+		margin-top: 35px;
+		text-align: center;
+	}
+	section.footer p{
+		font-size: 24px;
+		color: #878787;
+		margin: 14px auto;
+		text-align: center;
+	}
+	section.footer p.adress{
+		font-size: 16px;
+		color: #878787;
+		margin-top: 20px;
+		text-align: center;
+	}
+	section.footer ul{
+		margin: 20px auto;
+		list-style-type: none;
+		width: 470px;
+	}
+	section.footer ul li{
+		display: inline-block;
+		margin: 0 0 0 27px;
+
+	}
+	section.footer{
+		background-position: top center;
+		background-repeat: no-repeat;
+		height: 714px;
+	}
+	section.footer textarea{
+		height: 100px;
+	}
+	section.footer input[type="text"]{
+		margin-top: 10px;
+	}
+	footer ul li{
+		display: inline-block;
+		margin-right: 12px;
+	}
+	footer p, footer ul{
+		list-style-type: none;
+		margin-top: 56px;
+		padding: 0 10px;
+		color: #fff;
+		text-align: right;
+	}
+
+}
+
+/* Большие девайсы (большие десктопы, >= 992px) */ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	header div ul li{
+		margin-right: 18px;
+	}
+	div.services div p{
+	padding-right: 10px;
+	text-align: center;
+	}
+	div.services div h3{
+		padding-right: 10px;
+		text-align: center;
+	}
+	div.services div img{
+		display: block;
+		margin: 0 auto;
+		width: 80px;
+	}
+	div.services-2 h2,div.services-3 h2{
+		margin: 0;
+
+	}
+	section.man h3{
+		margin: 0;
+		font-size: 16px;
+		text-align: center;
+	}
+	section.man{
+		height: 400px;
+	}
+	div.services-3{
+		margin-top: 20px;
+	}
+	div.services-2 a{
+		border: 1px solid #fff;
+
+	}
+	section.noname div h4 {
+		font-size: 32px;
+	}
+	section.noname div h4:hover{
+		font-size: 32px;
+	}
+	section.team h2{
+		text-align: center;
+		font-size: 22px;
+	}
+	section.team img{
+		display: block;
+		margin: 0 auto;
+		width: 200px;
+		height: 200px;
+		margin-top: 32px;
+	}
+	div.name{
+		font-size: 24px;
+	}
+	section.team{
+		height: auto;
+	}
+	section.team h2 span{
+		font-size: 48px;
+	}
+	section.footer{
+		height: auto;
+	}
+	section.footer div.contact{
+		font-size: 14px;
+	}
+	section.footer p{
+		font-size: 24px;
+	}
+	section.footer li{
+		margin-right: 10px; 
+	}
+	section.footer input[type="text"],section.footer input[type="email"], textarea{
+		width: 400px;
+	}
+	footer p{
+		text-align: right;
+	}
+
+}
+
+/* Большие девайсы (большие десктопы, >= 1200px)*/
+@media (min-width: 1000px;) and (max-width: 1410px) {
+	header div.call-to h1{
+		width: 90%;
+		margin: 250px auto;
+	}
+	div.services div p{
+		padding-right: 10px;
+	}
+	div.services div p{
+		padding-right: 10px;
+	}
+	section.man img{
+		max-width: 100%;
+		height: 105vh;
+	}
+	section.noname div h4 {
+		font-size: 36px;
+	}
+	section.noname div h4:hover{
+		font-size: 36px;
+	}
+	section.footer input[type="text"],section.footer input[type="email"], textarea{
+		width: 400px;
+	}
+}
+html{
+	scroll-behavior: smooth;
+}
